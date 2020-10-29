@@ -1,0 +1,43 @@
+[02/Oct/2020:21:10:51] (I): WordPress Instance Info:
+[02/Oct/2020:21:10:51] (I): Home URL : https://emilieenglish.com
+[02/Oct/2020:21:10:51] (I): Site URL : https://emilieenglish.com
+[02/Oct/2020:21:10:51] (I): WordPress Version : 5.5.1
+[02/Oct/2020:21:10:51] (I): Onboarding Version : 1.0.10
+[02/Oct/2020:21:10:51] (I): Multisite : No
+[02/Oct/2020:21:10:51] (I): Server Info : Apache/2.4.29 (Ubuntu)
+[02/Oct/2020:21:10:51] (I): PHP Version : 7.2.24-0ubuntu0.18.04.6
+[02/Oct/2020:21:10:51] (I): HTTPS : Yes
+[02/Oct/2020:21:10:51] (I): PHP Max Execution Time : 30
+[02/Oct/2020:21:10:51] (I): PHP Max Input Vars : 1000
+[02/Oct/2020:21:10:51] (I): Max Upload Size : 2097152
+[02/Oct/2020:21:10:51] (I): Plugins:
+[02/Oct/2020:21:10:51] (I): [PLUGIN] Elementor : v3.0.11 (Elementor.com)
+[02/Oct/2020:21:10:51] (I): [PLUGIN] Gutenberg : v9.1.0 (Gutenberg Team)
+[02/Oct/2020:21:10:51] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.8 (ThemeIsle)
+[02/Oct/2020:21:10:51] (I): [PLUGIN] Templates Patterns Collection : v1.0.10 (ThemeIsle)
+[02/Oct/2020:21:10:51] (I): [PLUGIN] Orbit Fox Companion : v2.9.19 (Themeisle)
+[02/Oct/2020:21:10:51] (I): [PLUGIN] WordPress Importer : v0.7 (wordpressdotorg)
+[02/Oct/2020:21:10:51] (I): [PLUGIN] Yoast SEO : v15.0 (Team Yoast)
+[02/Oct/2020:21:10:51] (I): [PLUGIN] WPForms Lite : v1.6.2.3 (WPForms)
+[02/Oct/2020:21:10:51] (P): Saving remote XML
+[02/Oct/2020:21:10:51] (S): Saved remote XML at path /var/www/wordpress/wp-content/uploads/themeisle-demo-import.xml.
+[02/Oct/2020:21:10:51] (P): Starting content import...
+[02/Oct/2020:21:10:51] (S): Import started.
+[02/Oct/2020:21:10:51] (S): Parsing XML file.
+[02/Oct/2020:21:10:51] (P): Starting parsing file:/var/www/wordpress/wp-content/uploads/themeisle-demo-import.xml
+[02/Oct/2020:21:10:51] (P): Processing categories...
+[02/Oct/2020:21:10:51] (W): No categories to process.
+[02/Oct/2020:21:10:51] (P): Processing tags...
+[02/Oct/2020:21:10:51] (S): No tags to process.
+[02/Oct/2020:21:10:51] (P): Processing terms...
+[02/Oct/2020:21:10:51] (S): No terms to process.
+[02/Oct/2020:21:10:51] (P): Processing posts...
+[02/Oct/2020:21:10:51] (S): Processed posts.
+[02/Oct/2020:21:10:51] (P): Cleaning up import with id ...
+[02/Oct/2020:21:10:51] (P): Done cleanup. Flushing cache...
+[02/Oct/2020:21:10:51] (P): Flushed cache. Removing temporary data..
+[02/Oct/2020:21:10:51] (S): Done importing
+[02/Oct/2020:21:10:51] (P): Busting elementor cache
+[02/Oct/2020:21:10:51] (P): Setting up shop page.
+[02/Oct/2020:21:10:51] (S): No WooCommerce.
+[02/Oct/2020:21:10:51] (E): No front page ID.
